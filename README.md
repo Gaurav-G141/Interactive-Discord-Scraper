@@ -48,5 +48,15 @@ Like a password, it is your responsibility to keep your token safely guarded. Ne
 
 Finally, regardless of intent, for ethical reasons you should never scrape a server without owner/admin consent. The adminstrative team of whichever server you wish to scrape should have full knowledge of what you're scraping and how you plan to use the data in question. Never upload the result of scraped data online without server owner consent. If you're scraping a server where you'd have access to channels that could be considered private (such as staff channels or pateron), do not scrape those channels. Do not scrape any channels considered private or for specific people.    
 
+**CREATED BY**
+
+Gaurav Gupta
+
+UT Austin Computer Science C.O. 2029
+
+Email: g.gupta31415@gmail.com
+
+Free for use with permission and credit
+
   
 
